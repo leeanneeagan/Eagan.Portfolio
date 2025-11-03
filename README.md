@@ -32,3 +32,10 @@ It’s built to highlight my work, creativity, and the energy I bring both in pe
 Clone the repo:  
 ```bash
 git clone https://github.com/yourusername/your-portfolio.git
+
+
+---
+
+## 📸 Screenshots 🖼️
+
+![Alt text](images/le.png)
